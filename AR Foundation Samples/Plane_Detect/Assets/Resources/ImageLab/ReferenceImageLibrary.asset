@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5546686986831322507
+  m_GuidHigh: 11379514672570611131
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4895398653944073333
+      m_GuidHigh: 7991382034775955363
+    m_SerializedTextureGuid:
+      m_GuidLow: 9598428434825406651
+      m_GuidHigh: 11079826231245170971
+    m_Size: {x: 0.06, y: 0.10135135}
+    m_SpecifySize: 1
+    m_Name: La Muerte. Art by Carlota Santos
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5396245376681949362
+      m_GuidHigh: 6293012734195948719
+    m_SerializedTextureGuid:
+      m_GuidLow: 10463095971042462476
+      m_GuidHigh: 6042567364636418744
+    m_Size: {x: 0.06, y: 0.101123594}
+    m_SpecifySize: 1
+    m_Name: El Sacerdote. Art by Carlota San
+    m_Texture: {fileID: 0}
