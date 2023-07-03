@@ -1,0 +1,25 @@
+# 忽略 Unity 自动生成的缓存和元数据文件
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# 忽略 Visual Studio 和 Rider 自动生成的文件
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.csproj.user
+/*.orig
+/*.dll
+/*.pdb
+
+com.ptc.vuforia.engine-10.13.3.tgz
